@@ -1,0 +1,32 @@
+
+.container{
+    
+    width: 1000px;
+    margin: 0 auto;
+    height: 500px;
+    margin-bottom: 1px;
+    text-align: auto;
+   
+}
+.navigation-bar{
+  
+    margin: 0 auto;
+    top: 0;
+    width: 1000px;height: 500px;
+
+    background: -webkit-linear-gradient(-10deg, #fff 60%, #fdcd3b 60%);
+    background: -moz-linear-gradient(-10deg, #fff 60%, #fdcd3b 60%);
+    background-color: linear-gradient(-10deg, #fff 60%, #fdcd3b 60%);
+}
+.navigation-bar a{
+    float: right;
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    margin-right: 40px;
+}
+.navigation-bar a:hover{
+    background: #ddd;
+    color: blanchedalmond;}
