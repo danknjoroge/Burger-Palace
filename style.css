@@ -59,6 +59,7 @@ h1{
 }
 
 button{
+    
     margin-top: 35px;
     margin-left: 0px;
     color: black;
@@ -121,6 +122,9 @@ h2,h5{
 #newr{
     display: inline;
     margin-bottom: 60;
+
+    
+    padding-right: 20px;
 }
 .dot{
     height: 25px;
