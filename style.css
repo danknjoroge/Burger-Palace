@@ -157,7 +157,9 @@ h5{
     margin-left: 70px;
 }
 .lorry{
-    text-align: center;
+    align-items: center;
+    padding-left: 50px;
+    
 
 }
 #container{
@@ -184,6 +186,7 @@ h5{
 
    #footer > p:first-child { 
        float: left; text-align: left; 
+       
        width: 33.3%; } 
     #footer > p:last-child { 
           float: right; text-align: right; 
