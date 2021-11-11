@@ -1,4 +1,4 @@
-# Burger-Palace
+## Burger-Palace
 ### Daniel Njoroge
 ## Description
 This is a simple landing page for a burger palace website.
@@ -22,5 +22,5 @@ For any query or in case of any support, you can reach me through.
 * dank8505@gmail.com
 ### License
 This project is under [MIT](LICENSE).
-## Coraborators
+## Collaborators
 Daniel Njoroge
