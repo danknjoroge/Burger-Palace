@@ -1,5 +1,26 @@
 # Burger-Palace
-The project was created by Daniel Njoroge.
-This is a website that eases the customer means of accessing our services by viewing various food we provide and order at their comfort as we deliver to their locatiosn.
+### Daniel Njoroge
+## Description
+This is a simple landing page for a burger palace website.
+## Screenshot
+<img src="images/s1.png" alt="">
+<img src="images/s2.png" alt="">
 
-To see deployment of the project, visit https://danknjoroge.github.io/Burger-Palace/
+
+## Setup/Installation Requirements
+* Clone the repository to your computer from 
+        https://github.com/danknjoroge/Burger-Palace.git
+* Open the project using your preferred code editor, preferrably visual studio code.
+* Open the project using a web browser, preferably Google Chrome.
+## Known Bugs
+There are no known bugs
+## Technologies Used
+HTML 
+CSS
+## Support and contact details
+For any query or in case of any support, you can reach me through.
+* dank8505@gmail.com
+### License
+This project is under [MIT](LICENSE).
+## Coraborators
+Daniel Njoroge
